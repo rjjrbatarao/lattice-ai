@@ -14,4 +14,5 @@ https://www.linkedin.com/pulse/part-4-building-webgpu-inference-grid-share-your-
 https://github.com/apssouza22/webgpu-video-cluster
 https://jake-purton.uk/collatz_blog/?utm_source=hnblogs.substack.com
 https://medium.com/correll-lab/how-to-finetune-huggingfaces-smolvlm-dcbefc631a16
+https://medium.com/@mrshahzebkhoso/i-built-and-tested-visual-language-action-from-scratch-a-beginner-friendly-guide-48c04e7c6c2a
 ```
