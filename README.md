@@ -8,4 +8,5 @@ https://github.com/AI-Grid/AI-Grid-2.0
 https://neurolov.medium.com/under-the-hood-webgpu-solana-neurolovs-tech-stack-explained-570ed1e510cc
 https://www.linkedin.com/pulse/part-4-building-webgpu-inference-grid-share-your-browsers-souza-offdf
 https://github.com/apssouza22/webgpu-video-cluster
+https://jake-purton.uk/collatz_blog/?utm_source=hnblogs.substack.com
 ```
