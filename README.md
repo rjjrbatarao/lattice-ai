@@ -3,5 +3,6 @@ Lattice AI is an experimental GPU sharing protocol with new Proof of Inference c
 
 # References
 ```
+https://webllm.mlc.ai/?ref=webgpu.com
 https://github.com/AI-Grid/AI-Grid-2.0
 ```
